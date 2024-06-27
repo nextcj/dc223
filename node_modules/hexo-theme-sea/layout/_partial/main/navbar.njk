@@ -1,0 +1,12 @@
+<nav class="sea-nav-wrap">
+  <h1 class="sea-nav-logo" title="{{config.description}}">
+    <a href="{{ url_for("/") }}">{{ config.title }}</a>
+  </h1>
+  <div class="sea-nav-menus">
+    {{ partial('_partial/menu/pc') }}
+
+    <div id="sea-mobile-nav-toggle">
+      <i class="sea-font">bars</i>
+    </div>
+  </div>
+</nav>
