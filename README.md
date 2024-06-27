@@ -1,1 +1,1 @@
-# this is a repository used for storing the operation manuals for project-223
+# this is a repository used for storing the operation manuals of project-223
