@@ -1,9 +1,13 @@
 # 菜单栏
 menu:
-  # - name: 归档
-  #   url: /archives/
-  # - name: 友链
-  #   url: /friends/
+  - name: 视频教程
+    url: /tags/视频教程/
+  - name: APP升级
+    url: /2024/06/26/2024-06-25-0906/
+  - name: 娱乐屏硬件
+    url: /categories/娱乐屏硬件/
+  - name: 娱乐屏软件
+    url: /categories/娱乐屏软件/
   # - name: 留言
   #   url: /messages/
   # - name: 关于
