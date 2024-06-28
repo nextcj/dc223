@@ -100,5 +100,5 @@ theme: sea
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:nextcj/dc223.git
-  branch: main
+  repo: git@github.com:nextcj/nextcj.github.io.git
+  branch: dc223
