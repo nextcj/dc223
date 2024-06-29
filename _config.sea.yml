@@ -4,10 +4,8 @@ menu:
     url: /
   - name: 视频教程
     url: /tags/视频教程/
-  - name: 娱乐屏硬件
-    url: /categories/娱乐屏硬件/
-  - name: 娱乐屏软件
-    url: /categories/娱乐屏软件/
+  - name: 娱乐屏
+    url: /categories/娱乐屏/
   - name: 中控台
     url: /categories/中控台/
   - name: 关键词
