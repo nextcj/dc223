@@ -1,7 +1,0 @@
-# Options
-
-## readyTransition
-
-## responsiveTables
-
-
