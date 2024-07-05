@@ -2,11 +2,11 @@
 - [首页目录]()
 - [概述：223接车流程](image-car-223)
 - [图文：APP软件升级](image-upgrade)
-- [图文：点烟器改成车载充电器](image-cigerate)
+- [图文：点烟器改车载充电器](image-cigerate)
 - [图文：娱乐屏插头安装说明](image-screen-circuit)
 - [视频：倒车摄像头三根线束](video-backup-circuit)
 - [解决：倒车摄像头不显示](fix-backup-show)
-- [解决：连接 WIFI 时无法弹出键盘](fix-input)
+- [解决：无法弹出键盘输入](fix-input)
 - 
 - **其他文档**
 - [![222](assets/img/code.svg)大川222售后文档](https://nextcj.github.io/dc222)
